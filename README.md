@@ -14,14 +14,8 @@ It generates strong passwords and allows users to copy them with a single click.
 ---
 
 ## Live Demo
-[View on GitHub Pages](https://yourusername.github.io/random-password-generator/)  
+(https://adar5h-sth.github.io/random-password-generator/)
 
-
----
-
-## Screenshot
-![Password Generator Screenshot](images/screenshot.png)  
-*(Add a screenshot of your project in the `images` folder and update the path.)*
 
 ---
 
